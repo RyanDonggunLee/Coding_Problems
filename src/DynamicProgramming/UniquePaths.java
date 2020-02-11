@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class UniquePaths {
     public static int uniquePaths_BF(int m, int n) {
         int ans = 0;

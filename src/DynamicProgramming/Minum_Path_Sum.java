@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class Minum_Path_Sum {
     public int minPathSum(int[][] grid) {
         return dfs(0, 0, grid);

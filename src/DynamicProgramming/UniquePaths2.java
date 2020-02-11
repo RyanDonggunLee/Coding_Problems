@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class UniquePaths2 {
     public static int uniquePathsWithObstacles(int[][] obstacleGrid){
         int m = obstacleGrid[0].length;

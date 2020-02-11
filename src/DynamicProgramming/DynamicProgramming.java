@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class DynamicProgramming {
     public static int fib(int num) {
         if (num == 1 || num == 2)

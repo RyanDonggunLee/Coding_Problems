@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class LongestPalindromicSubstring {
     public static String longestPalindrome_BF(String s) {
         if (s == null || s == "" || s.length() > 1000) {

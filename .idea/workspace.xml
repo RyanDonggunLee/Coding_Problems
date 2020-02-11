@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07027493-73e3-456f-9e4a-70731d51df34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/coding_interview/MaximumSubarray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coding_interview/UniquePaths.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniquePaths2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_interview/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/DynamicProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Minum_Path_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/Minum_Path_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniquePaths2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,35 +56,35 @@
   </component>
   <component name="RunManager" selected="Application.MinimumPathSum">
     <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestPalindromicSubstring" />
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.LongestPalindromicSubstring" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumSubarray" />
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.MaximumSubarray" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumPathSum" />
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.MinimumPathSum" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniquePaths" />
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.UniquePaths" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="UniquePaths2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniquePaths2" />
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.UniquePaths2" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,7 +118,7 @@
       <workItem from="1576357187315" duration="19958000" />
       <workItem from="1578175916860" duration="1127000" />
       <workItem from="1579884576823" duration="230000" />
-      <workItem from="1581111929260" duration="15441000" />
+      <workItem from="1581111929260" duration="15703000" />
     </task>
     <servers />
   </component>

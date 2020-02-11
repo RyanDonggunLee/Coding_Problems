@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class MaximumSubarray {
     public static int maxSubArray_BF(int[] nums) {
         int ans = nums[0];
