@@ -14,7 +14,7 @@ public class LongestPalindromicSubstring {
             for(int j = 0; j < i; j++) {
 //                if(result > 0)
 //                    break;
-                int ans = findingPal(list, j, i);
+                int ans = findingPal_BF(list, j, i);
                 if (ans > result) {
                     start = j;
                     end = i;

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07027493-73e3-456f-9e4a-70731d51df34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_interview/MaximumSubarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_interview/UniquePaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniquePaths2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/coding_interview/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_interview/LongestPalindromicSubstring.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterDir="false" />
@@ -49,21 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindromicSubstring">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers" />
-      <module name="coding_interview" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming" />
-      <module name="coding_interview" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MinimumPathSum">
     <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestPalindromicSubstring" />
       <module name="coding_interview" />
@@ -71,15 +62,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice" />
+    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubarray" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrappingRainWater" />
+    <configuration name="MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumPathSum" />
+      <module name="coding_interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniquePaths" />
+      <module name="coding_interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniquePaths2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniquePaths2" />
       <module name="coding_interview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumPathSum" />
+        <item itemvalue="Application.UniquePaths2" />
+        <item itemvalue="Application.UniquePaths" />
+        <item itemvalue="Application.MaximumSubarray" />
         <item itemvalue="Application.LongestPalindromicSubstring" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.DynamicProgramming" />
-        <item itemvalue="Application.TrappingRainWater" />
-        <item itemvalue="Application.AddTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +118,7 @@
       <workItem from="1576357187315" duration="19958000" />
       <workItem from="1578175916860" duration="1127000" />
       <workItem from="1579884576823" duration="230000" />
-      <workItem from="1581111929260" duration="7463000" />
+      <workItem from="1581111929260" duration="15441000" />
     </task>
     <servers />
   </component>
