@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07027493-73e3-456f-9e4a-70731d51df34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/DynamicProgramming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Minum_Path_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/Minum_Path_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UniquePaths2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +110,7 @@
       <workItem from="1576357187315" duration="19958000" />
       <workItem from="1578175916860" duration="1127000" />
       <workItem from="1579884576823" duration="230000" />
-      <workItem from="1581111929260" duration="15703000" />
+      <workItem from="1581111929260" duration="16545000" />
     </task>
     <servers />
   </component>
