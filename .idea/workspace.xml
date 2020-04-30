@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07027493-73e3-456f-9e4a-70731d51df34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BFSDFS/RotttingOrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/DecodeWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecodeWays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BFSDFS/RotttingOrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BFSDFS/RotttingOrange.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +118,7 @@
       <workItem from="1579884576823" duration="230000" />
       <workItem from="1581111929260" duration="19356000" />
       <workItem from="1583806708590" duration="39000" />
-      <workItem from="1587598798608" duration="4203000" />
+      <workItem from="1587598798608" duration="4444000" />
     </task>
     <servers />
   </component>
