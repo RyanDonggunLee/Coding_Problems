@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07027493-73e3-456f-9e4a-70731d51df34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BFSDFS/RotttingOrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/DecodeWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecodeWays.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +36,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DynamicProgramming" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,7 +118,9 @@
       <workItem from="1576357187315" duration="19958000" />
       <workItem from="1578175916860" duration="1127000" />
       <workItem from="1579884576823" duration="230000" />
-      <workItem from="1581111929260" duration="16545000" />
+      <workItem from="1581111929260" duration="19356000" />
+      <workItem from="1583806708590" duration="39000" />
+      <workItem from="1587598798608" duration="4167000" />
     </task>
     <servers />
   </component>
@@ -122,7 +132,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
