@@ -29,8 +29,8 @@ public class TwoSum {
     }
 
     public static void main(String args[]) throws Exception {
-        int[] ex = new int[] {2, 7, 11, 15};
-        System.out.println(Arrays.toString(twoSum(ex, 9)));
+        int[] ex = new int[] {2, 7, 11, 15, -2};
+        System.out.println(Arrays.toString(twoSum(ex, 5)));
         System.out.println("hello world");
     }
 
