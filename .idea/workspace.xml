@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07027493-73e3-456f-9e4a-70731d51df34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindingSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/DynamicProgramming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/LongestPalindromicSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/MaximumSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/MinimumPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/Minum_Path_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_interview/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_interview/UniquePaths2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +118,7 @@
       <workItem from="1581111929260" duration="19356000" />
       <workItem from="1583806708590" duration="39000" />
       <workItem from="1587598798608" duration="6443000" />
-      <workItem from="1588282965399" duration="4591000" />
+      <workItem from="1588282965399" duration="5461000" />
     </task>
     <servers />
   </component>
